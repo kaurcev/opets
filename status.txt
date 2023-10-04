@@ -1,1 +1,1 @@
-200
+set a=Hello world
